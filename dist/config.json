@@ -1,0 +1,13 @@
+{
+  "name": "Last Insert Key Report",
+  "supportEmail": "support@geotab.com",
+  "version": "0.0.1",
+  "items": [{
+    "url": "https://cdn.jsdelivr.net/gh/Geotab/addin-last-insert-key@master/dist/lastInsertKey.html",
+    "path": "ActivityLink/",
+    "menuName": {
+      "en": "Last Insert Key"
+    },
+    "icon": "https://cdn.jsdelivr.net/gh/Geotab/addin-last-insert-key@master/dist/images/icon.png"
+  }]
+}
